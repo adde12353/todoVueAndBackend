@@ -15,7 +15,7 @@ export default {
         return {
             title: '',
             details: '',
-            uri: 'https://flashy-bolder-roar.glitch.me/' + this.id,
+            uri: 'https://flashy-bolder-roar.glitch.me/projects/' + this.id,
         }
     },
     methods:{
