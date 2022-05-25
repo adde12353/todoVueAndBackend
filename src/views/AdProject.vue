@@ -25,7 +25,7 @@ export default {
                 complete: false
             }
             console.log(project)
-            fetch("http://localhost:5006/", 
+            fetch("https://flashy-bolder-roar.glitch.me/", 
             {
                 method: 'POST',
                 headers: {'Content-Type' : 'application/json'},
