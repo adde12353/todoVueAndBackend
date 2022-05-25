@@ -15,7 +15,7 @@ export default {
         return {
             title: '',
             details: '',
-            uri: 'http://localhost:5006/projects/' + this.id,
+            uri: 'https://flashy-bolder-roar.glitch.me/' + this.id,
         }
     },
     methods:{
