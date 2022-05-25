@@ -31,7 +31,7 @@ export default {
         return{
             detailsOpen : false,
             
-            uri: "https://flashy-bolder-roar.glitch.me/" + this.project.id
+            uri: "https://flashy-bolder-roar.glitch.me/projects/" + this.project.id
         }
     },
     methods: {
