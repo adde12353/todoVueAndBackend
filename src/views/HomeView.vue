@@ -27,7 +27,7 @@ export default {
     }
   },
   mounted(){
-    fetch("http://localhost:5006/")
+    fetch("https://flashy-bolder-roar.glitch.me/")
     .then((res) => { 
     console.log(res)
     return res.json()
